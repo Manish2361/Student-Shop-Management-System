@@ -1,2 +1,2 @@
 # Student-Shop-Management-System
-### Short Description for GitHub:  **"Student Shop Management System"**   A simple Java application for managing shop inventory. Features include viewing product lists, buying and selling items, updating prices, and calculating total stock value. Perfect for learning object-oriented programming and inventory management concepts.
+Java-based inventory management application designed to simulate retail stock operations. Implements object-oriented programming principles including classes, encapsulation, and modular design. Features product listing, purchase/sales tracking, dynamic price updates, and automated total inventory value calculation. Built to demonstrate foundational software engineering and data handling concepts.
